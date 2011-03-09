@@ -1,0 +1,430 @@
+TDBSample
+v7
+r0
+t321338447.830899
+cCheck dependencies
+cProcessInfoPlistFile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/Info.plist DBSample-Info.plist
+cCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/DBSample.app/hinario.sqlite Resources/DB/hinario.sqlite
+cCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib
+cCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib
+cProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch.gch DBSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/main.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSampleAppDelegate.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/HinosTableViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Conexao.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Hino.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithWebViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithTextViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample normal i386
+cGenerateDSYMFile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app.dSYM /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample
+cTouch /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.h
+c000000004D73DC4C0000000000000127
+t1299438668
+s295
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m
+c000000004D73DC4C00000000000001B6
+t1299438668
+s438
+i"Conexao.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.h
+c000000004D73DC4C0000000000000153
+t1299438668
+s339
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m
+c000000004D73DC4C0000000000000AD0
+t1299438668
+s2768
+i"DBSampleAppDelegate.h"
+i"HinosTableViewController.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.h
+c000000004D73DC4C0000000000000212
+t1299438668
+s530
+i<Foundation/Foundation.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m
+c000000004D76FCFE00000000000008E0
+t1299643646
+s2272
+i"Hino.h"
+i"Conexao.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.h
+c000000004D73DC4C000000000000011A
+t1299438668
+s282
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m
+c000000004D7704C100000000000008F9
+t1299645633
+s2297
+i"HinosTableViewController.h"
+i"Hino.h"
+i"ViewWithTextViewController.h"
+i"ViewWithWebViewController.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.h
+c000000004D73DC4C000000000000016C
+t1299438668
+s364
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m
+c000000004D73DC4C0000000000000289
+t1299438668
+s649
+i"ViewWithTextViewController.h"
+i"Hino.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib
+c000000004D73DC4C00000000000048EC
+t1299438668
+s18668
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.h
+c000000004D73DC4C000000000000018B
+t1299438668
+s395
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m
+c000000004D73DC4C0000000000000325
+t1299438668
+s805
+i"ViewWithWebViewController.h"
+i"Hino.h"
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib
+c000000004D73DC4C0000000000004460
+t1299438668
+s17504
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/DBSample_Prefix.pch
+c000000004D73DC4C00000000000000B9
+t1299438668
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib
+c000000004D73DC4C000000000000210D
+t1299438668
+s8461
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Resources/DB/hinario.sqlite
+c000000004D76B3810000000000001000
+t1299624833
+s4096
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Conexao.o
+t1299517990
+s7636
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSample.LinkFileList
+c000000004D751222000000000000042C
+t1299517986
+s1068
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSampleAppDelegate.o
+t1299517990
+s52752
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Hino.o
+t1299645626
+s14388
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/HinosTableViewController.o
+t1299645636
+s44968
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithTextViewController.o
+t1299517990
+s41876
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithWebViewController.o
+t1299517990
+s41744
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/main.o
+t1299517990
+s6336
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app
+t1299645636
+s306
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app.dSYM
+t1299645636
+s102
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample
+t1299645636
+s27864
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/Info.plist
+t1299517986
+s595
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/MainWindow.nib
+t1299517986
+s985
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/PkgInfo
+t1299517986
+s8
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/ViewWithTextViewController.nib
+t1299517987
+s1758
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/ViewWithWebViewController.nib
+t1299517987
+s976
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/hinario.sqlite
+t1299639939
+s4096
+
+N/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m
+c000000004D73DC4C0000000000000173
+t1299438668
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch.gch
+t1299517989
+s15453392
+
+NDBSample-Info.plist
+c000000004D73DC4C000000000000038D
+t1299438668
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321338447#321338447#0(0"0(0#1#0"8616414368#0"0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Conexao.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210790.176891
+e321210790.255164
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Conexao.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m321210790#321210790#0(0"0(0#0#73"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m8610116960#2135"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Conexao.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Conexao.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSampleAppDelegate.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210790.058387
+e321210790.176784
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSampleAppDelegate.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m321210790#321210790#0(0"0(0#0#85"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m8618844384#2159"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/DBSampleAppDelegate.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSampleAppDelegate.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Hino.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321338426.566077
+e321338426.701247
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Hino.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m321338426#321338426#0(0"0(0#0#70"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m8629047008#2129"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/Hino.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/Hino.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/HinosTableViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321338436.643302
+e321338436.719050
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/HinosTableViewController.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m321338436#321338436#0(0"0(0#0#90"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m8628807392#2169"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/HinosTableViewController.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/HinosTableViewController.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithTextViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210790.328957
+e321210790.427814
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithTextViewController.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m321210790#321210790#0(0"0(0#0#92"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m8592414240#2173"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithTextViewController.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithWebViewController.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210790.255275
+e321210790.354890
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithWebViewController.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m321210790#321210790#0(0"0(0#0#91"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m8595806144#2171"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/ViewWithWebViewController.o0#
+
+CCompileC build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/main.o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210790.056094
+e321210790.128348
+r1
+xCompileC
+xbuild/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/main.o
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m321210790#321210790#0(0"0(0#0#62"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m8619357952#2121"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -include /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/main.m -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib
+s321210786.780578
+e321210787.489637
+r1
+xCompileXIB
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib
+lSLF07#2@49"CompileXIB Classes/ViewWithTextViewController.xib321210786#321210787#0(0"0(0#0#94"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib8595736480#662"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/ViewWithTextViewController.nib /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithTextViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib
+s321210786.095994
+e321210787.557251
+r1
+xCompileXIB
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib
+lSLF07#2@48"CompileXIB Classes/ViewWithWebViewController.xib321210786#321210787#0(0"0(0#0#93"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib8598064672#660"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/ViewWithWebViewController.nib /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Classes/ViewWithWebViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib
+s321210786.094595
+e321210786.780480
+r1
+xCompileXIB
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321210786#321210786#0(0"0(0#0#70"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib8610216224#622"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/MainWindow.nib /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/DBSample.app/hinario.sqlite Resources/DB/hinario.sqlite
+s321332739.085879
+e321332739.114535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DBSample.app/hinario.sqlite
+xResources/DB/hinario.sqlite
+lSLF07#2@32"Copy Resources/DB/hinario.sqlite321332739#321332739#0(0"0(0#0#83"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Resources/DB/hinario.sqlite8615186560#537"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/Resources/DB/hinario.sqlite /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app0#
+
+CGenerateDSYMFile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app.dSYM /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample
+s321338436.744274
+e321338436.764826
+r1
+xGenerateDSYMFile
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app.dSYM
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/DBSample.app.dSYM build/Debug-iphonesimulator/DBSample.app/DBSample321338436#321338436#0(0"0(0#0#105"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample8616807296#437"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app.dSYM0#
+
+CLd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample normal i386
+s321338436.719158
+e321338436.744169
+r1
+xLd
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample
+xnormal
+xi386
+lSLF07#2@110"Link /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample321338436#321338436#0(0"0(0#0#0"8617360640#1000"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -filelist /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/Objects-normal/i386/DBSample.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3 -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/DBSample0#
+
+CProcessInfoPlistFile /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/Info.plist DBSample-Info.plist
+s321210786.074955
+e321210786.094373
+r1
+xProcessInfoPlistFile
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/Info.plist
+xDBSample-Info.plist
+lSLF07#2@27"Process DBSample-Info.plist321210786#321210786#0(0"0(0#0#75"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/DBSample-Info.plist23362706539282480#533"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DBSample-Info.plist -genpkginfo /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app/Info.plist0#
+
+CProcessPCH /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch.gch DBSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321210787.557388
+e321210790.055391
+r1
+xProcessPCH
+x/var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch.gch
+xDBSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile DBSample_Prefix.pch321210787#321210790#0(0"0(0#0#75"/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/DBSample_Prefix.pch8610379648#1995"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-generated-files.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-own-target-headers.hmap -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-all-target-headers.hmap -iquote /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DBSample-project-headers.hmap -F/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/include -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources/i386 -I/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/DBSample.build/Debug-iphonesimulator/DBSample.build/DerivedSources -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/DBSample_Prefix.pch -o /var/folders/5p/5pJ5ajM3E+iiQKmJEA8GxU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/DBSample_Prefix-bajmynurkyphxzflahvtnubaqqwr/DBSample_Prefix.pch.gch0#
+
+CTouch /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app
+s321338436.764914
+e321338436.767448
+r1
+xTouch
+x/Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app
+lSLF07#2@102"Touch /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app321338436#321338436#0(0"0(0#0#0"8616624992#313"    cd /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dario/Documents/curso-objectiveC/SDK-11/DBSample/build/Debug-iphonesimulator/DBSample.app0#
+
